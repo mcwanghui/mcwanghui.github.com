@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<description><![CDATA[HuiHui]]></description>
+		<title><![CDATA[HuiHui]]></title>
+		<link>http://mcwanghui.github.com/</link>
+		<pubDate>2012-08-26T16:57:48+08:00</pubDate>
+
+		
+		<item>
+			<description>
+				<![CDATA[
+				
+
+				Included file 'post/copyright.html' not found in _includes directory
+				]]>
+			</description>
+			<title><![CDATA[Hi]]></title>
+			<link>http://mcwanghui.github.com/hi/</link>
+			<pubDate>2012-08-26T16:35:00+08:00</pubDate>
+			<guid isPermaLink="false">http://mcwanghui.github.com/hi</guid>
+
+			<source url="http://mcwanghui.github.com/rss.xml"><![CDATA[HuiHui]]></source>
+		</item>
+		
+	</channel>
+</rss>
