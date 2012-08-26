@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[HuiHui]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mcwanghui.github.com/atom.xml" rel="self"/>
   <link href="http://mcwanghui.github.com/"/>
-  <updated>2012-08-26T16:57:48+08:00</updated>
+  <updated>2012-08-26T17:30:00+08:00</updated>
   <id>http://mcwanghui.github.com/</id>
   <author>
-    <name><![CDATA[mcwanghui]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hi]]></title>
-    <link href="http://mcwanghui.github.com/hi/"/>
+    <link href="http://mcwanghui.github.com/blog/2012/08/26/hi/"/>
     <updated>2012-08-26T16:35:00+08:00</updated>
-    <id>http://mcwanghui.github.com/hi</id>
+    <id>http://mcwanghui.github.com/blog/2012/08/26/hi</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
 	<channel>
-		<description><![CDATA[HuiHui]]></description>
-		<title><![CDATA[HuiHui]]></title>
+		<description><![CDATA[My Octopress Blog]]></description>
+		<title><![CDATA[My Octopress Blog]]></title>
 		<link>http://mcwanghui.github.com/</link>
-		<pubDate>2012-08-26T16:57:48+08:00</pubDate>
+		<pubDate>2012-08-26T17:30:00+08:00</pubDate>
 
 		
 		<item>
@@ -16,11 +16,11 @@
 				]]>
 			</description>
 			<title><![CDATA[Hi]]></title>
-			<link>http://mcwanghui.github.com/hi/</link>
+			<link>http://mcwanghui.github.com/blog/2012/08/26/hi/</link>
 			<pubDate>2012-08-26T16:35:00+08:00</pubDate>
-			<guid isPermaLink="false">http://mcwanghui.github.com/hi</guid>
+			<guid isPermaLink="false">http://mcwanghui.github.com/blog/2012/08/26/hi</guid>
 
-			<source url="http://mcwanghui.github.com/rss.xml"><![CDATA[HuiHui]]></source>
+			<source url="http://mcwanghui.github.com/rss.xml"><![CDATA[My Octopress Blog]]></source>
 		</item>
 		
 	</channel>
